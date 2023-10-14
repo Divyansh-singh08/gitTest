@@ -1,0 +1,2 @@
+# gitTest
+Setting up git
